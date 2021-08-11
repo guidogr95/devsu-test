@@ -1,0 +1,9 @@
+.character-list__search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.character-list__search input {
+  margin:  0 1rem;
+}
